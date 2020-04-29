@@ -23,6 +23,9 @@ see_adjust.txt - weight-adjusted SEE data set
 
 - 3rd-407th columns: weight-adjusted  SEE data (T=405)
 
+Source: Lee, J. S., Zakeri, I. F. and Butte, N. F. [2017], `Functional data analysis of sleeping
+energy expenditure', PLoS one 12(5), e0177286.
+
 # Strawberry
 
 strawberry.txt
