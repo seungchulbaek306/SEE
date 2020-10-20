@@ -1,4 +1,4 @@
-These are data sets which are used in real data analysis of the manuscript entitled, "Revisit to Functional Data Analysis of Sleeping Energy Expenditure" by Baek, S., Kim, Y., Park, J., and Lee, J. 
+These are data sets which are used in real data analysis of the manuscript entitled, "Revisit to Functional Data Analysis of Sleeping Energy Expenditure" by Baek, S., Kim, Y., Park, J., and Lee, J. This paper has been accepted for the publication in Jounral of Applied Statistics.  
 
 
 # SEE
